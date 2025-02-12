@@ -166,3 +166,5 @@ exclude (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2
 )
+
+replace github.com/containerd/platforms => github.com/helio/platforms v0.0.0-20250210145525-2cdb30942b96
