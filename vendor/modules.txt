@@ -181,7 +181,7 @@ github.com/containerd/nri/types/v1
 ## explicit; go 1.21
 github.com/containerd/otelttrpc
 github.com/containerd/otelttrpc/internal
-# github.com/containerd/platforms v1.0.0-rc.1 => github.com/helio/platforms v0.0.0-20250210145525-2cdb30942b96
+# github.com/containerd/platforms v1.0.0-rc.1 => ../platforms
 ## explicit; go 1.20
 github.com/containerd/platforms
 # github.com/containerd/plugin v1.0.0
@@ -894,4 +894,4 @@ tags.cncf.io/container-device-interface/pkg/parser
 # tags.cncf.io/container-device-interface/specs-go v0.8.0
 ## explicit; go 1.19
 tags.cncf.io/container-device-interface/specs-go
-# github.com/containerd/platforms => github.com/helio/platforms v0.0.0-20250210145525-2cdb30942b96
+# github.com/containerd/platforms => ../platforms

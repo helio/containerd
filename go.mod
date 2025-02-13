@@ -170,4 +170,4 @@ exclude (
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2
 )
 
-replace github.com/containerd/platforms => github.com/helio/platforms v0.0.0-20250210145525-2cdb30942b96
+replace github.com/containerd/platforms => ../platforms
